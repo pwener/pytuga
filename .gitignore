@@ -10,3 +10,4 @@ pyinstaller/
 .pydevproject
 installed-files.txt
 .cache/
+.vagrant/
