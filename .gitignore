@@ -8,4 +8,5 @@ pyinstaller/
 .gitignore
 .project
 .pydevproject
+.vagrant/
 installed-files.txt
