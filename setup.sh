@@ -4,5 +4,7 @@ sudo apt-get -y install python3-all python3-pyqt5 python3-pyqt5.qsci python3-pyq
 # clone and enter in repository
 git clone https://github.com/fabiommendes/pytuga.git
 cd pytuga
+# Install pytest
+sudo pip3 install pytest
 # run setup.py to install local version
 sudo python3 setup.py install
